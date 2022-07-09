@@ -1,1 +1,1 @@
-2.3.2,https://github.com/flines-hedgehog/toyventure/releases/download/v2.3.2/Toyventure.exe
+2.3.3,https://github.com/flines-hedgehog/toyventure/releases/download/v2.3.3/Toyventure.exe
